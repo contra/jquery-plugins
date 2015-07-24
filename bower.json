@@ -1,7 +1,7 @@
 {
-  "name": "gulp-plugins",
+  "name": "jquery-plugins",
   "version": "0.0.0",
-  "homepage": "gulp-plugins",
+  "homepage": "jquery-plugins",
   "license": "MIT",
   "private": true,
   "ignore": [

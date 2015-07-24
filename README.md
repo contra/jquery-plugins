@@ -1,24 +1,12 @@
-gulp plugins
+jquery plugins
 ============
-#### ~ [http://gulpjs.com/plugins/](http://gulpjs.com/plugins/)
+#### ~ [http://plugins.jquery.com/](http://plugins.jquery.com)
 
-This app is a simple client-side app that allows one to browse and search gulp plugins.
-It fetches data from [npmsearch](http://npmsearch.com/) with the keywords *gulpplugin* and *gulpfriendly*.
+This app is a simple client-side app that allows one to browse and search jquery plugins.
+It fetches data from [npmsearch](http://npmsearch.com/) with the keywords *jquery-plugin* and *jqueryplugin*.
 npmsearch also provides rankings for plugins(so we don't have to).
 
 Built with [AngularJS](http://angularjs.org) and [gulp](http://gulpjs.com/)
-
-## Blacklisting
-
-To maintain quality in the plugin ecosystem, we sometimes "blacklist" plugins. Being blacklisted means we won't offer support for issues concerning the module and we will not recommend that people use it. You are free to publish anything you want on NPM, but our official plugin list is subject to filtering.
-
-A plugin may be blacklisted for the following reasons:
-
-1. Does not fit within the gulp paradigm
-2. Flagrant duplicate of an existing plugin
-3. Does not follow the plugin guidelines
-
-If you feel that a plugin has been blacklisted incorrectly or you would like to add a plugin to the blacklist, use the issues page.
 
 ## Contributing
 

@@ -87,7 +87,7 @@ angular.module('npm-plugin-browser')
         }
       });
 
-    $scope.orderByGulpKeywords = function (item) {
+    $scope.orderByKeywords = function (item) {
       return (item === 'jquery-plugin' || item === 'jqueryplugin') ? -1 : 0;
     };
 
